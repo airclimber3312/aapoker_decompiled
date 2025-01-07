@@ -1,0 +1,330 @@
+version: 2.10.0
+apkFileName: AAPoker.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 22
+  targetSdkVersion: 33
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 1
+  versionName: 1.7.5
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  allclasses-frame.html: 8
+  allclasses-noframe.html: 8
+  billing.properties: 8
+  constant-values.html: 8
+  deprecated-list.html: 8
+  help-doc.html: 8
+  index-all.html: 8
+  index.html: 8
+  overview-frame.html: 8
+  overview-summary.html: 8
+  overview-tree.html: 8
+  package-list: 8
+  script.js: 8
+  stylesheet.css: 8
+  error_prone/Annotations.gwt.xml: 8
+  io/agora/base/AudioFrame.html: 8
+  io/agora/base/FaceCaptureInfo.html: 8
+  io/agora/base/FaceDetectionInfo.html: 8
+  io/agora/base/IMetaInfo.html: 8
+  io/agora/base/JavaI010Buffer.html: 8
+  io/agora/base/JavaI420Buffer.html: 8
+  io/agora/base/NV12Buffer.html: 8
+  io/agora/base/NV21Buffer.html: 8
+  io/agora/base/TextureBuffer.html: 8
+  io/agora/base/TextureBufferHelper.html: 8
+  io/agora/base/VideoFrame.Buffer.html: 8
+  io/agora/base/VideoFrame.ColorSpace.Matrix.html: 8
+  io/agora/base/VideoFrame.ColorSpace.Primary.html: 8
+  io/agora/base/VideoFrame.ColorSpace.Range.html: 8
+  io/agora/base/VideoFrame.ColorSpace.Transfer.html: 8
+  io/agora/base/VideoFrame.ColorSpace.html: 8
+  io/agora/base/VideoFrame.HdrMetadata.Chromaticity.html: 8
+  io/agora/base/VideoFrame.HdrMetadata.html: 8
+  io/agora/base/VideoFrame.I420Buffer.html: 8
+  io/agora/base/VideoFrame.I422Buffer.html: 8
+  io/agora/base/VideoFrame.RgbaBuffer.html: 8
+  io/agora/base/VideoFrame.SourceType.html: 8
+  io/agora/base/VideoFrame.TextureBuffer.ContextType.html: 8
+  io/agora/base/VideoFrame.TextureBuffer.Type.html: 8
+  io/agora/base/VideoFrame.TextureBuffer.html: 8
+  io/agora/base/VideoFrame.html: 8
+  io/agora/base/VideoFrameMetaInfo.html: 8
+  io/agora/base/package-frame.html: 8
+  io/agora/base/package-summary.html: 8
+  io/agora/base/package-tree.html: 8
+  io/agora/mediaplayer/AssetsFileReader.html: 8
+  io/agora/mediaplayer/Constants.AudioDualMonoMode.html: 8
+  io/agora/mediaplayer/Constants.MediaPlayerEvent.html: 8
+  io/agora/mediaplayer/Constants.MediaPlayerMetadataType.html: 8
+  io/agora/mediaplayer/Constants.MediaPlayerPreloadEvent.html: 8
+  io/agora/mediaplayer/Constants.MediaPlayerReason.html: 8
+  io/agora/mediaplayer/Constants.MediaPlayerState.html: 8
+  io/agora/mediaplayer/Constants.MediaStreamType.html: 8
+  io/agora/mediaplayer/Constants.html: 8
+  io/agora/mediaplayer/ContentFileReader.html: 8
+  io/agora/mediaplayer/IMediaPlayer.html: 8
+  io/agora/mediaplayer/IMediaPlayerAudioFrameObserver.html: 8
+  io/agora/mediaplayer/IMediaPlayerCacheManager.html: 8
+  io/agora/mediaplayer/IMediaPlayerCustomDataProvider.html: 8
+  io/agora/mediaplayer/IMediaPlayerObserver.html: 8
+  io/agora/mediaplayer/IMediaPlayerVideoFrameObserver.html: 8
+  io/agora/mediaplayer/IPlayerTextureHelper.html: 8
+  io/agora/mediaplayer/package-frame.html: 8
+  io/agora/mediaplayer/package-summary.html: 8
+  io/agora/mediaplayer/package-tree.html: 8
+  io/agora/mediaplayer/data/CacheStatistics.html: 8
+  io/agora/mediaplayer/data/MediaPlayerSource.html: 8
+  io/agora/mediaplayer/data/MediaStreamInfo.html: 8
+  io/agora/mediaplayer/data/PlayerPlaybackStats.html: 8
+  io/agora/mediaplayer/data/PlayerUpdatedInfo.html: 8
+  io/agora/mediaplayer/data/SrcInfo.html: 8
+  io/agora/mediaplayer/data/package-frame.html: 8
+  io/agora/mediaplayer/data/package-summary.html: 8
+  io/agora/mediaplayer/data/package-tree.html: 8
+  io/agora/mediaplayer/gl/PlayerTextureHelper.html: 8
+  io/agora/mediaplayer/gl/package-frame.html: 8
+  io/agora/mediaplayer/gl/package-summary.html: 8
+  io/agora/mediaplayer/gl/package-tree.html: 8
+  io/agora/rtc2/AgoraMediaRecorder.MediaRecorderConfiguration.html: 8
+  io/agora/rtc2/AgoraMediaRecorder.html: 8
+  io/agora/rtc2/ChannelMediaOptions.html: 8
+  io/agora/rtc2/ClientRoleOptions.html: 8
+  io/agora/rtc2/Constants.AUDIO_EQUALIZATION_BAND_FREQUENCY.html: 8
+  io/agora/rtc2/Constants.AUDIO_REVERB_TYPE.html: 8
+  io/agora/rtc2/Constants.AudioMixingDualMonoMode.html: 8
+  io/agora/rtc2/Constants.AudioProfile.html: 8
+  io/agora/rtc2/Constants.AudioScenario.html: 8
+  io/agora/rtc2/Constants.AudioTrackType.html: 8
+  io/agora/rtc2/Constants.BytesPerSample.html: 8
+  io/agora/rtc2/Constants.ExternalVideoSourceType.html: 8
+  io/agora/rtc2/Constants.LogLevel.html: 8
+  io/agora/rtc2/Constants.MEDIA_TRACE_EVENT.html: 8
+  io/agora/rtc2/Constants.MediaSourceType.html: 8
+  io/agora/rtc2/Constants.MediaType.html: 8
+  io/agora/rtc2/Constants.QoEPreference.html: 8
+  io/agora/rtc2/Constants.ScreenScenarioType.html: 8
+  io/agora/rtc2/Constants.SimulcastStreamMode.html: 8
+  io/agora/rtc2/Constants.ThreadPriorityType.html: 8
+  io/agora/rtc2/Constants.VideoModulePosition.html: 8
+  io/agora/rtc2/Constants.VideoScenario.html: 8
+  io/agora/rtc2/Constants.VideoSourceType.html: 8
+  io/agora/rtc2/Constants.html: 8
+  io/agora/rtc2/DataStreamConfig.html: 8
+  io/agora/rtc2/DeviceInfo.html: 8
+  io/agora/rtc2/DirectCdnStreamingMediaOptions.html: 8
+  io/agora/rtc2/DirectCdnStreamingReason.html: 8
+  io/agora/rtc2/DirectCdnStreamingState.html: 8
+  io/agora/rtc2/DirectCdnStreamingStats.html: 8
+  io/agora/rtc2/EchoTestConfiguration.html: 8
+  io/agora/rtc2/EncodedVideoTrackOptions.html: 8
+  io/agora/rtc2/ExtensionInfo.html: 8
+  io/agora/rtc2/IAudioEffectManager.html: 8
+  io/agora/rtc2/IAudioEncodedFrameObserver.html: 8
+  io/agora/rtc2/IAudioFrameObserver.html: 8
+  io/agora/rtc2/IDirectCdnStreamingEventHandler.html: 8
+  io/agora/rtc2/IH265Transcoder.html: 8
+  io/agora/rtc2/IH265TranscoderObserver.H265TranscodeResult.html: 8
+  io/agora/rtc2/IH265TranscoderObserver.html: 8
+  io/agora/rtc2/IMediaExtensionObserver.html: 8
+  io/agora/rtc2/IMediaRecorderCallback.html: 8
+  io/agora/rtc2/IMetadataObserver.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.AgoraFacePositionInfo.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.AudioVolumeInfo.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.ClientRole.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.DownlinkNetworkInfo.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.ErrorCode.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.LastmileProbeResult.LastmileProbeOneWayResult.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.LastmileProbeResult.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.LocalAudioStats.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.LocalVideoStats.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.Quality.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.RemoteAudioStats.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.RemoteVideoStats.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.RtcStats.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.UplinkNetworkInfo.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.UserOfflineReason.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.VideoLayout.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.VideoLayoutInfo.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.VideoProfile.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.VideoRenderingTracingInfo.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.WarnCode.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.WlAccStats.html: 8
+  io/agora/rtc2/IRtcEngineEventHandler.html: 8
+  io/agora/rtc2/LeaveChannelOptions.html: 8
+  io/agora/rtc2/LocalTranscoderConfiguration.TranscodingVideoStream.html: 8
+  io/agora/rtc2/LocalTranscoderConfiguration.html: 8
+  io/agora/rtc2/PublisherConfiguration.Builder.html: 8
+  io/agora/rtc2/PublisherConfiguration.html: 8
+  io/agora/rtc2/PublisherParameters.html: 8
+  io/agora/rtc2/RecorderInfo.html: 8
+  io/agora/rtc2/RecorderStreamInfo.html: 8
+  io/agora/rtc2/RtcConnection.CONNECTION_STATE_TYPE.html: 8
+  io/agora/rtc2/RtcConnection.html: 8
+  io/agora/rtc2/RtcEngine.html: 8
+  io/agora/rtc2/RtcEngineConfig.AreaCode.html: 8
+  io/agora/rtc2/RtcEngineConfig.LogConfig.html: 8
+  io/agora/rtc2/RtcEngineConfig.html: 8
+  io/agora/rtc2/RtcEngineEx.html: 8
+  io/agora/rtc2/RtcEngineInternal.html: 8
+  io/agora/rtc2/ScreenCaptureParameters.AudioCaptureParameters.html: 8
+  io/agora/rtc2/ScreenCaptureParameters.VideoCaptureParameters.html: 8
+  io/agora/rtc2/ScreenCaptureParameters.html: 8
+  io/agora/rtc2/SimulcastStreamConfig.html: 8
+  io/agora/rtc2/SpatialAudioParams.html: 8
+  io/agora/rtc2/UserInfo.html: 8
+  io/agora/rtc2/package-frame.html: 8
+  io/agora/rtc2/package-summary.html: 8
+  io/agora/rtc2/package-tree.html: 8
+  io/agora/rtc2/audio/AdvancedAudioOptions.AudioProcessingChannelsEnum.html: 8
+  io/agora/rtc2/audio/AdvancedAudioOptions.html: 8
+  io/agora/rtc2/audio/AgoraRhythmPlayerConfig.html: 8
+  io/agora/rtc2/audio/AudioParams.html: 8
+  io/agora/rtc2/audio/AudioSpectrumInfo.html: 8
+  io/agora/rtc2/audio/AudioTrackConfig.html: 8
+  io/agora/rtc2/audio/IAudioSpectrumObserver.html: 8
+  io/agora/rtc2/audio/UserAudioSpectrumInfo.html: 8
+  io/agora/rtc2/audio/package-frame.html: 8
+  io/agora/rtc2/audio/package-summary.html: 8
+  io/agora/rtc2/audio/package-tree.html: 8
+  io/agora/rtc2/live/LiveInjectStreamConfig.AudioSampleRateType.html: 8
+  io/agora/rtc2/live/LiveInjectStreamConfig.html: 8
+  io/agora/rtc2/live/LiveTranscoding.AudioCodecProfileType.html: 8
+  io/agora/rtc2/live/LiveTranscoding.AudioSampleRateType.html: 8
+  io/agora/rtc2/live/LiveTranscoding.TranscodingUser.html: 8
+  io/agora/rtc2/live/LiveTranscoding.VideoCodecProfileType.html: 8
+  io/agora/rtc2/live/LiveTranscoding.VideoCodecType.html: 8
+  io/agora/rtc2/live/LiveTranscoding.html: 8
+  io/agora/rtc2/live/package-frame.html: 8
+  io/agora/rtc2/live/package-summary.html: 8
+  io/agora/rtc2/live/package-tree.html: 8
+  io/agora/rtc2/proxy/LocalAccessPointConfiguration.AdvancedConfigInfo.html: 8
+  io/agora/rtc2/proxy/LocalAccessPointConfiguration.LogUploadServerInfo.html: 8
+  io/agora/rtc2/proxy/LocalAccessPointConfiguration.html: 8
+  io/agora/rtc2/proxy/package-frame.html: 8
+  io/agora/rtc2/proxy/package-summary.html: 8
+  io/agora/rtc2/proxy/package-tree.html: 8
+  io/agora/rtc2/video/AgoraFocalLengthInfo.html: 8
+  io/agora/rtc2/video/AgoraImage.html: 8
+  io/agora/rtc2/video/AgoraVideoFrame.html: 8
+  io/agora/rtc2/video/BeautyOptions.html: 8
+  io/agora/rtc2/video/CameraCapturerConfiguration.CAMERA_DIRECTION.html: 8
+  io/agora/rtc2/video/CameraCapturerConfiguration.CAMERA_FOCAL_LENGTH_TYPE.html: 8
+  io/agora/rtc2/video/CameraCapturerConfiguration.CaptureFormat.html: 8
+  io/agora/rtc2/video/CameraCapturerConfiguration.html: 8
+  io/agora/rtc2/video/ChannelMediaInfo.html: 8
+  io/agora/rtc2/video/ChannelMediaRelayConfiguration.html: 8
+  io/agora/rtc2/video/CodecCapInfo.html: 8
+  io/agora/rtc2/video/CodecCapLevels.html: 8
+  io/agora/rtc2/video/ColorEnhanceOptions.html: 8
+  io/agora/rtc2/video/ContentInspectConfig.ContentInspectModule.html: 8
+  io/agora/rtc2/video/ContentInspectConfig.html: 8
+  io/agora/rtc2/video/EncodedVideoFrameInfo.html: 8
+  io/agora/rtc2/video/IFaceInfoObserver.html: 8
+  io/agora/rtc2/video/IVideoEncodedFrameObserver.html: 8
+  io/agora/rtc2/video/IVideoFrameObserver.html: 8
+  io/agora/rtc2/video/ImageTrackOptions.html: 8
+  io/agora/rtc2/video/LowLightEnhanceOptions.html: 8
+  io/agora/rtc2/video/SegmentationProperty.html: 8
+  io/agora/rtc2/video/VideoCanvas.html: 8
+  io/agora/rtc2/video/VideoCompositingLayout.Builder.html: 8
+  io/agora/rtc2/video/VideoCompositingLayout.Canvas.html: 8
+  io/agora/rtc2/video/VideoCompositingLayout.Region.html: 8
+  io/agora/rtc2/video/VideoCompositingLayout.html: 8
+  io/agora/rtc2/video/VideoDenoiserOptions.html: 8
+  io/agora/rtc2/video/VideoEncoderConfiguration.AdvanceOptions.html: 8
+  io/agora/rtc2/video/VideoEncoderConfiguration.CODEC_CAP_MASK.html: 8
+  io/agora/rtc2/video/VideoEncoderConfiguration.COMPRESSION_PREFERENCE.html: 8
+  io/agora/rtc2/video/VideoEncoderConfiguration.DEGRADATION_PREFERENCE.html: 8
+  io/agora/rtc2/video/VideoEncoderConfiguration.ENCODING_PREFERENCE.html: 8
+  io/agora/rtc2/video/VideoEncoderConfiguration.FRAME_RATE.html: 8
+  io/agora/rtc2/video/VideoEncoderConfiguration.MIRROR_MODE_TYPE.html: 8
+  io/agora/rtc2/video/VideoEncoderConfiguration.ORIENTATION_MODE.html: 8
+  io/agora/rtc2/video/VideoEncoderConfiguration.VIDEO_CODEC_TYPE.html: 8
+  io/agora/rtc2/video/VideoEncoderConfiguration.VideoDimensions.html: 8
+  io/agora/rtc2/video/VideoEncoderConfiguration.html: 8
+  io/agora/rtc2/video/VideoSubscriptionOptions.REMOTE_VIDEO_STREAM_TYPE.html: 8
+  io/agora/rtc2/video/VideoSubscriptionOptions.html: 8
+  io/agora/rtc2/video/VirtualBackgroundSource.html: 8
+  io/agora/rtc2/video/WatermarkOptions.Rectangle.html: 8
+  io/agora/rtc2/video/WatermarkOptions.html: 8
+  io/agora/rtc2/video/package-frame.html: 8
+  io/agora/rtc2/video/package-summary.html: 8
+  io/agora/rtc2/video/package-tree.html: 8
+  io/agora/spatialaudio/IBaseSpatialAudioEngine.html: 8
+  io/agora/spatialaudio/ILocalSpatialAudioEngine.html: 8
+  io/agora/spatialaudio/LocalSpatialAudioConfig.html: 8
+  io/agora/spatialaudio/RemoteVoicePositionInfo.html: 8
+  io/agora/spatialaudio/SpatialAudioZone.html: 8
+  io/agora/spatialaudio/package-frame.html: 8
+  io/agora/spatialaudio/package-summary.html: 8
+  io/agora/spatialaudio/package-tree.html: 8
+  jsr305_annotations/Jsr305_annotations.gwt.xml: 8
+  okhttp3/internal/publicsuffix/NOTICE: 8
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: 0
+  third_party/java_src/error_prone/project/annotations/Annotations.gwt.xml: 8
+  third_party/java_src/error_prone/project/annotations/Google_internal.gwt.xml: 8
+doNotCompress:
+- resources.arsc
+- META-INF/android.support.design_material.version
+- META-INF/androidx.appcompat_appcompat.version
+- META-INF/androidx.arch.core_core-runtime.version
+- META-INF/androidx.asynclayoutinflater_asynclayoutinflater.version
+- META-INF/androidx.browser_browser.version
+- META-INF/androidx.cardview_cardview.version
+- META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+- META-INF/androidx.core_core.version
+- META-INF/androidx.cursoradapter_cursoradapter.version
+- META-INF/androidx.customview_customview.version
+- META-INF/androidx.documentfile_documentfile.version
+- META-INF/androidx.drawerlayout_drawerlayout.version
+- META-INF/androidx.exifinterface_exifinterface.version
+- META-INF/androidx.fragment_fragment.version
+- META-INF/androidx.interpolator_interpolator.version
+- META-INF/androidx.legacy_legacy-support-core-ui.version
+- META-INF/androidx.legacy_legacy-support-core-utils.version
+- META-INF/androidx.legacy_legacy-support-v4.version
+- META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+- META-INF/androidx.lifecycle_lifecycle-livedata.version
+- META-INF/androidx.lifecycle_lifecycle-runtime.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+- META-INF/androidx.loader_loader.version
+- META-INF/androidx.localbroadcastmanager_localbroadcastmanager.version
+- META-INF/androidx.media2_media2.version
+- META-INF/androidx.media_media.version
+- META-INF/androidx.mediarouter_mediarouter.version
+- META-INF/androidx.palette_palette.version
+- META-INF/androidx.print_print.version
+- META-INF/androidx.recyclerview_recyclerview.version
+- META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+- META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+- META-INF/androidx.transition_transition.version
+- META-INF/androidx.vectordrawable_vectordrawable-animated.version
+- META-INF/androidx.vectordrawable_vectordrawable.version
+- META-INF/androidx.versionedparcelable_versionedparcelable.version
+- META-INF/androidx.viewpager_viewpager.version
+- META-INF/com.android.games.engine.build_fingerprint
+- META-INF/com.google.android.material_material.version
+- assets/StreamingAssets
+- assets/aotdlls.unity3d
+- assets/build_info
+- assets/code.unity3d
+- assets/config.unity3d
+- assets/language.unity3d
+- assets/loadview.unity3d
+- assets/uidialog_loading.unity3d
+- assets/uiloading.unity3d
+- mp4
+- assets/bin/Data/data.unity3d
+- png
+- gif

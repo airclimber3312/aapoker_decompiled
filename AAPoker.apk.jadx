@@ -1,0 +1,70 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "AAPoker.apk"
+  ],
+  "treeExpansions": [
+    [
+      "Source code",
+      "AAPoker.apk"
+    ],
+    [
+      "Resources",
+      "AAPoker.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "androidx.core.util.LogWriter",
+      "subPath": "java",
+      "caret": 1022,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    },
+    {
+      "type": "resource",
+      "tabPath": "AndroidManifest.xml",
+      "subPath": "",
+      "caret": 13180,
+      "view": {
+        "x": 0,
+        "y": 3744
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    },
+    {
+      "type": "class",
+      "tabPath": "com.google.firebase.auth.internal.FederatedSignInActivity",
+      "subPath": "java",
+      "caret": 5970,
+      "view": {
+        "x": 0,
+        "y": 1531
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false
+    }
+  ],
+  "cacheDir": "C:\\Users\\admin\\AppData\\Local\\skylot\\jadx\\cache\\projects\\AAPoker-0ff9cbb3bd952be98227b6f096273da9",
+  "enableLiveReload": false,
+  "searchHistory": [
+    "Log.d("
+  ],
+  "pluginOptions": {}
+}
